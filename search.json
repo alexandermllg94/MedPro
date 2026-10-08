@@ -1,0 +1,23 @@
+[
+  {
+    "id": "201",
+    "title": "Insuficiencia cardíaca",
+    "area": "Cardiología",
+    "keywords": ["icc", "nyha", "disnea"],
+    "text": "insuficiencia cardiaca definicion causas nyha"
+  },
+  {
+    "id": "202",
+    "title": "Asma",
+    "area": "Neumología",
+    "keywords": ["sibilancias", "broncoespasmo"],
+    "text": "asma crisis inhalador"
+  },
+    {
+    "id": "205",
+    "title": "Derrame pleural",
+    "area": "Tema 1",
+    "keywords": ["sibilancias", "broncoespasmo"],
+    "text": "asma crisis inhalador"
+  }
+]

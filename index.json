@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Tema 1",
+    "icon": "fa-bug",
+    "color": "#8cc152",
+    "children": [
+      {
+        "id": "1.1",
+        "title": "Tema 1.1",
+        "children": [
+          {
+            "id": "1.1.2",
+            "title": "Tema 1.1.2",
+            "children": [
+              { "id": "1.1.2.1", "title": "Insuficiencia cardíaca", "tema": "201" },
+              { "id": "1.1.2.2", "title": "Edema pulmonar", "tema": "204" },
+              { "id": "1.1.2.3", "title": "Asma bronquial", "tema": "202" },
+              { "id": "1.1.2.4", "title": "Derrame pleural", "tema": "205" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
