@@ -1,6 +1,6 @@
 {
-  "version": "1.02",
-  "notas": "Tema nuevo: Derrame pleural.",
+  "version": "1.10",
+  "notas": "Tema nuevo: Pleural.",
   "index": "index.json",
-  "temas": ["205.json"]
+  "temas": ["206.json"]
 }
