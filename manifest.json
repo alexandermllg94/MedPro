@@ -1,6 +1,6 @@
 {
-  "version": "1.10",
-  "notas": "Tema nuevo: Pleural.",
+  "version": "1.01",
   "index": "index.json",
-  "temas": ["206.json"]
+  "buscar": "search.json",
+  "temas": ["205.json"]
 }
